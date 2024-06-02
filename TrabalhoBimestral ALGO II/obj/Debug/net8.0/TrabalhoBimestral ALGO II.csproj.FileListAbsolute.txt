@@ -1,0 +1,14 @@
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\bin\Debug\net8.0\TrabalhoBimestral ALGO II.exe
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\bin\Debug\net8.0\TrabalhoBimestral ALGO II.deps.json
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\bin\Debug\net8.0\TrabalhoBimestral ALGO II.runtimeconfig.json
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\bin\Debug\net8.0\TrabalhoBimestral ALGO II.dll
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\bin\Debug\net8.0\TrabalhoBimestral ALGO II.pdb
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\obj\Debug\net8.0\TrabalhoBimestral ALGO II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\obj\Debug\net8.0\TrabalhoBimestral ALGO II.AssemblyInfoInputs.cache
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\obj\Debug\net8.0\TrabalhoBimestral ALGO II.AssemblyInfo.cs
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\obj\Debug\net8.0\TrabalhoBimestral ALGO II.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\obj\Debug\net8.0\TrabalhoBimestral ALGO II.dll
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\obj\Debug\net8.0\refint\TrabalhoBimestral ALGO II.dll
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\obj\Debug\net8.0\TrabalhoBimestral ALGO II.pdb
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\obj\Debug\net8.0\TrabalhoBimestral ALGO II.genruntimeconfig.cache
+C:\Users\Enzo\Repositorios\TrabalhoBimestral ALGO II\TrabalhoBimestral ALGO II\obj\Debug\net8.0\ref\TrabalhoBimestral ALGO II.dll
